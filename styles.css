@@ -101,8 +101,8 @@ section ul li:hover {
     transform: scale(1.1);
 }
 
-.trips-list img {
-    width: 90px;
+.games-list img {
+    width: 150px;
     border-radius: 8px;
     border: 1px solid #443E54;
 }
